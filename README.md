@@ -54,24 +54,24 @@ function App() {
       <h1>Employee Information</h1>
 
       <Employee
-        name="Ravi"
-        id="101"
-        department="CSE"
-        designation="Software Developer"
+        Name="Sukhmeet Kaur G"
+        ID="2305001032"
+        Department="CSE"
+        Designation="Software Developer"
       />
 
       <Employee
-        name="Arun"
-        id="102"
-        department="IT"
-        designation="Web Developer"
+        Name="user123"
+        ID="102"
+        Department="IT"
+        Designation="Web Developer"
       />
 
       <Employee
-        name="Priya"
-        id="103"
-        department="AIDS"
-        designation="Data Analyst"
+        Name="user456"
+        ID="103"
+        Department="AIDS"
+        Designation="Data Analyst"
       />
     </div>
   );
